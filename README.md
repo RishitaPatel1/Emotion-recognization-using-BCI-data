@@ -66,7 +66,7 @@ This project uses the **SEED-VII** dataset provided by the BCMI Lab at Shanghai 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Emotion-recognization-using-BCI-data.git
+   git clone https://github.com/RishitaPatel1/Emotion-recognization-using-BCI-data.git
    cd Seed_BCI_final
    ```
 
